@@ -24,4 +24,11 @@ document.addEventListener('yt-page-data-updated', e => {
 
 	// hide or show recommendations
 	hidepaths.includes(location.pathname) ? hide() : show();
+
+	// focus on search bar if homepage
+	if (hidepaths.includes(location.pathname)) {
+		// send '/' stroke to page to focus on search input
+		const evt = new KeyboardEvent('keydown', { keyCode: 191 }); 
+		document.dispatchEvent(evt); 
+	}
 });
