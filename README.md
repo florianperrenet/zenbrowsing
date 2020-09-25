@@ -1,4 +1,4 @@
-<img src="logo.png" width="200">
+<img src="logo.png" width="400">
 
 Distraction free browsing :slightly_smiling_face:
 
