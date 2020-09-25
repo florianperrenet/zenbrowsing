@@ -1,5 +1,7 @@
 <img src="logo.png" width="200">
 
+Browse pages without being distracted
+
 ---
 
 Chrome extension that removes distractions on the following sites:
