@@ -2,7 +2,7 @@
 
 Distraction free browsing
 
-<img src="zen.gif" width="400">
+<img src="zen2.gif" width="400">
 
 ---
 
