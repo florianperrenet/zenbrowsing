@@ -1,0 +1,13 @@
+{
+  "name": "zenbrowsing",
+  "version": "1.0",
+  "description": "Browse pages without being distracted",
+  "content_scripts": [
+    {
+      "matches": ["https://*.youtube.com/*"],
+      "js": ["zen_youtube.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "manifest_version": 2
+}
