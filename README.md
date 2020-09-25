@@ -1,2 +1,3 @@
 # zenbrowsing
-Browse pages without being distracted
+Chrome extension that removes distractions on certain sites:
+- youtube.com
