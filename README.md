@@ -1,6 +1,6 @@
 <img src="logo.png" width="200">
 
-Browse pages without being distracted :slightly_smiling_face:
+Distraction free browsing :slightly_smiling_face:
 
 ---
 
