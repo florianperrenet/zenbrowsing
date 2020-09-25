@@ -1,4 +1,6 @@
-# zenbrowsing
+<img src="logo.png" width="300">
+---
+
 Chrome extension that removes distractions on the following sites:
 - youtube.com
 	- recommended and related videos
