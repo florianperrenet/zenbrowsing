@@ -1,6 +1,8 @@
 <img src="logo.png" width="400">
 
-Distraction free browsing :zany_face:
+Distraction free browsing
+
+<img src="zen.gif" width="400">
 
 ---
 
