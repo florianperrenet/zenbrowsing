@@ -1,4 +1,5 @@
-<img src="logo.png" width="300">
+<img src="logo.png" width="200">
+
 ---
 
 Chrome extension that removes distractions on the following sites:
